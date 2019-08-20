@@ -1,0 +1,14 @@
+{
+  "name": "api-authentification",
+  "version": "1.0.0",
+  "description": "JWT Example",
+  "main": "index.js",
+  "repository": "https://github.com/Laetronaz/api-authentification.git",
+  "author": "Laetronaz <michelwarcraft@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^1.19.1"
+  }
+}
